@@ -48,6 +48,9 @@ I’m a Machine Learning & Deep Learning Engineer passionate about building AI p
 
 ### 🚀 Projects
 <div align="left">
+   <a href="https://github.com/AliRadii/Ecommerce">
+    <img src="https://img.shields.io/badge/Ecommerce-Python-purple?style=for-the-badge&logo=github" alt="Ecommerce" />
+  </a>
   <a href="https://github.com/AliRadii/Titanic">
     <img src="https://img.shields.io/badge/Titanic-Python-blue?style=for-the-badge&logo=github" alt="Titanic" />
   </a>
