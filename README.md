@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-here">
+  <a href="https://www.linkedin.com/in/aly-rady-1b6aba329">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn Badge" />
   </a>
 </div>
@@ -25,7 +25,7 @@
 ### 👩‍💻 About Me
 <p align="left">
 Hi, I’m Ali! <br>
-I’m a Machine Learning & Deep Learning Engineer.
+I’m a Machine Learning & Deep Learning Engineer passionate about building AI projects and exploring new technologies.
 </p>
 
 ---
@@ -43,3 +43,37 @@ I’m a Machine Learning & Deep Learning Engineer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
 </div>
+
+---
+
+### 🚀 Projects
+<div align="left">
+  <a href="https://github.com/AliRadii/TicTac">
+    <img src="https://img.shields.io/badge/TicTac-Game-blue?style=for-the-badge&logo=github" alt="TicTac Game" />
+  </a>
+  <a href="https://github.com/AliRadii/Guessing_Game">
+    <img src="https://img.shields.io/badge/Guessing%20Game-Python-red?style=for-the-badge&logo=github" alt="Guessing Game" />
+  </a>
+  <a href="https://github.com/AliRadii/ATM_Machine">
+    <img src="https://img.shields.io/badge/ATM%20Machine-C++-green?style=for-the-badge&logo=github" alt="ATM Machine" />
+  </a>
+  <a href="https://github.com/AliRadii/DynamicArrayCpp">
+    <img src="https://img.shields.io/badge/DynamicArray-C++-yellow?style=for-the-badge&logo=github" alt="Dynamic Array C++" />
+  </a>
+  <a href="https://github.com/AliRadii/clinic_system">
+    <img src="https://img.shields.io/badge/Clinic%20System-Python-orange?style=for-the-badge&logo=github" alt="Clinic System" />
+  </a>
+  <a href="https://github.com/AliRadii/Slot-machine">
+    <img src="https://img.shields.io/badge/Slot%20Machine-Python-purple?style=for-the-badge&logo=github" alt="Slot Machine" />
+  </a>
+</div>
+
+---
+
+### 📫 Contact Me
+<p align="left">
+You can reach me via:  
+<a href="mailto:R2DY2005@gmail.com">Email</a> | 
+<a href="https://www.linkedin.com/in/aly-rady-1b6aba329">LinkedIn</a> | 
+<a href="https://github.com/AliRadii">GitHub</a>
+</p>
