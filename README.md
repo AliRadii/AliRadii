@@ -52,7 +52,7 @@ I’m a Machine Learning & Deep Learning Engineer passionate about building AI p
     <img src="https://img.shields.io/badge/Ecommerce-Python-purple?style=for-the-badge&logo=github" alt="Ecommerce" />
   </a>
   <a href="https://github.com/AliRadii/Titanic">
-    <img src="https://img.shields.io/badge/Titanic-Python-gray?style=for-the-badge&logo=github" alt="Titanic" />
+    <img src="https://img.shields.io/badge/Titanic-Python-purple?style=for-the-badge&logo=github" alt="Titanic" />
   </a>
   <a href="https://github.com/AliRadii/TicTac">
     <img src="https://img.shields.io/badge/TicTac-Game-blue?style=for-the-badge&logo=github" alt="TicTac Game" />
