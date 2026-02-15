@@ -25,7 +25,7 @@
 ### 👩‍💻 About Me
 <p align="left">
 Hi, I’m Ali! <br>
-I’m a Machine Learning & Deep Learning Engineer passionate about building AI projects and exploring new technologies.
+I’m a Machine Learning & Deep Learning Engineer passionate about building AI systems, exploring advanced ML techniques, and deploying real-world solutions.
 </p>
 
 ---
@@ -39,7 +39,6 @@ I’m a Machine Learning & Deep Learning Engineer passionate about building AI p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
 </div>
@@ -48,33 +47,50 @@ I’m a Machine Learning & Deep Learning Engineer passionate about building AI p
 
 ### 🚀 Projects
 <div align="left">
+
+  <!-- 🔥 FEATURED PROJECT -->
+  <a href="https://github.com/AliRadii/Customer-Value-Prediction-Segmentation">
+    <img src="https://img.shields.io/badge/Customer%20Lifetime%20Value-ML%20%7C%20XGBoost%20%7C%20Streamlit-blue?style=for-the-badge&logo=github" alt="CLV Project" />
+  </a>
+
+  <br><br>
+
   <a href="https://github.com/AliRadii/Gold-Price">
     <img src="https://img.shields.io/badge/Gold-Price-Python-purple?style=for-the-badge&logo=github" alt="Gold-Price" />
   </a>
-   <a href="https://github.com/AliRadii/Ecommerce">
+
+  <a href="https://github.com/AliRadii/Ecommerce">
     <img src="https://img.shields.io/badge/Ecommerce-Python-purple?style=for-the-badge&logo=github" alt="Ecommerce" />
   </a>
+
   <a href="https://github.com/AliRadii/Titanic">
     <img src="https://img.shields.io/badge/Titanic-Python-purple?style=for-the-badge&logo=github" alt="Titanic" />
   </a>
+
   <a href="https://github.com/AliRadii/TicTac">
     <img src="https://img.shields.io/badge/TicTac-Game-blue?style=for-the-badge&logo=github" alt="TicTac Game" />
   </a>
+
   <a href="https://github.com/AliRadii/Guessing_Game">
     <img src="https://img.shields.io/badge/Guessing%20Game-Python-red?style=for-the-badge&logo=github" alt="Guessing Game" />
   </a>
+
   <a href="https://github.com/AliRadii/ATM_Machine">
     <img src="https://img.shields.io/badge/ATM%20Machine-C++-green?style=for-the-badge&logo=github" alt="ATM Machine" />
   </a>
+
   <a href="https://github.com/AliRadii/DynamicArrayCpp">
     <img src="https://img.shields.io/badge/DynamicArray-C++-yellow?style=for-the-badge&logo=github" alt="Dynamic Array C++" />
   </a>
+
   <a href="https://github.com/AliRadii/clinic_system">
     <img src="https://img.shields.io/badge/Clinic%20System-Python-orange?style=for-the-badge&logo=github" alt="Clinic System" />
   </a>
+
   <a href="https://github.com/AliRadii/Slot-machine">
     <img src="https://img.shields.io/badge/Slot%20Machine-Python-purple?style=for-the-badge&logo=github" alt="Slot Machine" />
   </a>
+
 </div>
 
 ---
