@@ -58,6 +58,9 @@ I’m a Machine Learning & Deep Learning Engineer passionate about building AI s
   <a href="https://github.com/AliRadii/Gold-Price">
     <img src="https://img.shields.io/badge/Gold-Price-Python-purple?style=for-the-badge&logo=github" alt="Gold-Price" />
   </a>
+  <a href="https://github.com/AliRadii/Object-Tracking">
+    <img src="https://img.shields.io/badge/Object%20Tracking-OpenCV%20%7C%20Computer%20Vision-darkgreen?style=for-the-badge&logo=github" alt="Object Tracking" />
+  </a>
 
   <a href="https://github.com/AliRadii/Ecommerce">
     <img src="https://img.shields.io/badge/Ecommerce-Python-purple?style=for-the-badge&logo=github" alt="Ecommerce" />
