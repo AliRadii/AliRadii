@@ -32,11 +32,11 @@ I am a **Computer Engineering student** passionate about building **real-world A
 
 My focus areas include:
 
-- 🤖 Machine Learning  
-- 🧠 Deep Learning  
-- 👁 Computer Vision  
-- 📊 Applied AI Systems  
-- 🚀 End-to-End ML Deployment  
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* 👁 Computer Vision
+* 📊 Applied AI Systems
+* 🚀 End-to-End ML Deployment
 
 I enjoy building **complete machine learning pipelines**, from **data exploration and feature engineering to model training and deployment**.
 
@@ -44,17 +44,51 @@ I enjoy building **complete machine learning pipelines**, from **data exploratio
 
 # 🔥 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%">
+<h3 align="center">Music Popularity Prediction</h3>
 <div align="center">
-
-<a href="https://github.com/AliRadii/cardio-risk-predictor">
-  <img src="https://img.shields.io/badge/Cardiovascular%20Risk%20Predictor-ML%20%7C%20XGBoost%20%7C%20Streamlit-red?style=for-the-badge&logo=github"/>
+<a href="https://github.com/AliRadii/Music-Popularity-Prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AliRadii&repo=Music-Popularity-Prediction&theme=tokyonight"/>
 </a>
-
-<a href="https://github.com/AliRadii/Customer-Value-Prediction-Segmentation">
-  <img src="https://img.shields.io/badge/Customer%20Lifetime%20Value-ML%20%7C%20XGBoost%20%7C%20Streamlit-blue?style=for-the-badge&logo=github"/>
-</a>
-
+<p>
+Machine learning system that analyzes music audio features to predict and cluster song popularity using KMeans and Random Forest models.
+</p>
 </div>
+</td>
+
+<td width="50%">
+<h3 align="center">Cardiovascular Risk Predictor</h3>
+<div align="center">
+<a href="https://github.com/AliRadii/cardio-risk-predictor">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AliRadii&repo=cardio-risk-predictor&theme=tokyonight"/>
+</a>
+<p>
+Machine learning pipeline predicting cardiovascular disease risk using XGBoost with an interactive Streamlit dashboard.
+</p>
+</div>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+<h3 align="center">Customer Lifetime Value Prediction</h3>
+<div align="center">
+<a href="https://github.com/AliRadii/Customer-Value-Prediction-Segmentation">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AliRadii&repo=Customer-Value-Prediction-Segmentation&theme=tokyonight"/>
+</a>
+<p>
+Customer segmentation and lifetime value prediction using machine learning and data analytics techniques.
+</p>
+</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -147,8 +181,6 @@ I enjoy building **complete machine learning pipelines**, from **data exploratio
 
 # 📫 Contact
 
-📧 Email: **R2DY2005@gmail.com**  
-💼 LinkedIn: **www.linkedin.com/in/aly-rady-1b6aba329**  
+📧 Email: **[R2DY2005@gmail.com](mailto:R2DY2005@gmail.com)**
+💼 LinkedIn: **[www.linkedin.com/in/aly-rady-1b6aba329](http://www.linkedin.com/in/aly-rady-1b6aba329)**
 🧑‍💻 GitHub: **github.com/AliRadii**
-
----
